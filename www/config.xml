@@ -10,6 +10,7 @@
 
     <!-- platforms to build -->
     <gap:platform name="android" />
+    <gap:platform name="iOS" />
 
     <content src="http://blonk.meteor.com" />
     
